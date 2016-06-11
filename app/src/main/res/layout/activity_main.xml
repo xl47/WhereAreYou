@@ -67,6 +67,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Get Location"/>
+
+        <Button
+            android:id="@+id/btnLoadLocations"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Load Locations"/>
+
     </LinearLayout>
 
 </RelativeLayout>
